@@ -1,4 +1,4 @@
-For Ansible to access target machines, password less authentication must be enabled to access target machines. This can be done by setting up Server machine as known host in all the target machines.
+For Ansible to access target machines, one must enable password less authentication. This can be done by setting up Server machine as known host in all the target machines.
 
 Setting Server Machine as Known Host:
 
