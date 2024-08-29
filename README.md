@@ -21,6 +21,7 @@ Now Server can access the Target without any password.
 STEP 3:
 
 - Create an inventory file, a file that contains the IP addresses of the target machines.
+  
   Ex: inventory
 
 STEP 4: Ansible commands
